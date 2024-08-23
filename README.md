@@ -1,6 +1,6 @@
 # IA Punto 🚀
 
-[![Logo de IA Punto](https://iapunto.com/wp-content/uploads/2023/11/logo-v2.png)](https://iapunto.com/)
+[![Logo de IA Punto](https://iapunto.com/wp-content/uploads/2023/11/logo-v2-negativo.png)](https://iapunto.com/)
 
 **Impulsamos tu éxito en el marketing digital con inteligencia artificial.**
 
