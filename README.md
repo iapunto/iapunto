@@ -2,6 +2,32 @@
 
 [![Logo de IA Punto](https://iapunto.com/wp-content/uploads/2023/11/logo-v2-negativo.png)](https://iapunto.com/)
 
+## Tecnologías y Herramientas 🛠️
+
+[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)   
+
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)   
+
+[![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/es/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)   
+
+[![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)   
+
+[![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Stylus](https://img.shields.io/badge/Stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white)](https://stylus-lang.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)   
+
+[![Slim](https://img.shields.io/badge/Slim-%23000000.svg?style=for-the-badge&logo=slim&logoColor=white)](https://www.slimframework.com/)
+[![Composer](https://img.shields.io/badge/Composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white)](https://getcomposer.org/)
+[![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/es-es/)
+[![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/es-es/dotnet/csharp/)   
+
+[![Google Ads](https://img.shields.io/badge/Google_Ads-%234285F4.svg?style=for-the-badge&logo=google-ads&logoColor=white)](https://ads.google.com/)
+[![Facebook Ads](https://img.shields.io/badge/Facebook_Ads-%234267B2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/business/ads)
+[![Instagram Ads](https://img.shields.io/badge/Instagram_Ads-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://business.instagram.com/advertising)
+
 **Impulsamos tu éxito en el marketing digital con inteligencia artificial.**
 
 Somos una agencia especializada en soluciones de marketing digital impulsadas por IA. Transformamos tus ideas en resultados concretos, maximizando tu alcance, aumentando tus conversiones y automatizando tu atención al cliente.
