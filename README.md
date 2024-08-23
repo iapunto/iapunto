@@ -30,10 +30,14 @@ Somos una agencia especializada en soluciones de marketing digital impulsadas po
 
 ¿Listo para llevar tu marketing digital al siguiente nivel? ¡Contáctanos y descubre cómo podemos ayudarte a alcanzar tus objetivos!
 
-* **Página Web:** [Enlace a la página web de IA Punto]
-* **Correo Electrónico:** [Dirección de correo electrónico de IA Punto]
-* **Teléfono:** [Número de teléfono de IA Punto]
+* **Página Web:** [https://iapunto.com](https://iapunto.com)
+* **Correo Electrónico:** [hola@iapunto.com](mailto:hola@iapunto.com)
+* **Teléfono:** [+57 316 376 9935](tel:+573163769935)
 
-¡Síguenos en nuestras redes sociales!
+## ¡Síguenos en nuestras redes sociales!
 
-[Enlaces a las redes sociales de IA Punto]
+* **Facebook:** [https://www.facebook.com/iapunto/](https://www.facebook.com/iapunto/)
+* **Instagram:** [https://www.instagram.com/iapunto](https://www.instagram.com/iapunto)
+* **X (Twitter):** [https://twitter.com/iapunto](https://twitter.com/iapunto)
+* **LinkedIn:** [https://linkedin.com/company/iapunto](https://linkedin.com/company/iapunto)
+* **YouTube:** [https://www.youtube.com/@iapunto](https://www.youtube.com/@iapunto)
