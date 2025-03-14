@@ -1,6 +1,6 @@
 # IA Punto 🚀
 
-[![Logo de IA Punto](https://iapunto.com/wp-content/uploads/2023/11/logo-v2-negativo.png)](https://iapunto.com/)
+[![Logo de IA Punto](https://res.cloudinary.com/dkb9jfet8/image/upload/v1741038442/logo-v3-negativo_u5jdv2.png)](https://iapunto.com/)
 
 ## Tecnologías y Herramientas 🛠️
 
@@ -9,7 +9,8 @@
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)   
 
 [![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/es/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)   
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 [![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)   
