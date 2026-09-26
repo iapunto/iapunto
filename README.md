@@ -5,7 +5,18 @@
 </p>
 
 <p align="center">
-  <strong>Odoo para empresas · Desarrollo · Integraciones · Automatización</strong>
+  <img src="https://img.shields.io/badge/Odoo-Implementaci%C3%B3n-00B894?style=for-the-badge" alt="Implementación de Odoo">
+  <img src="https://img.shields.io/badge/Odoo-Desarrollo-008F83?style=for-the-badge" alt="Desarrollo de Odoo">
+  <img src="https://img.shields.io/badge/Sistemas-Integraciones-0B6F79?style=for-the-badge" alt="Integraciones">
+  <img src="https://img.shields.io/badge/Procesos-Automatizaci%C3%B3n-123663?style=for-the-badge" alt="Automatización">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
 
 ## Somos IA Punto
